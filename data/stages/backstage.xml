@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/stage/" name="stage" zoom="0.7" startCamPosY="100" startCamPosX="1000">
+	<sprite type="none" scroll="0.7" sprite="bg" name="bg"/>
+	<sprite type="none" scroll="0.75" sprite="seats" name="seats"/>
+	<sprite type="none" scroll="0.8" sprite="stage" name="stage"/>
+	<sprite type="none" scroll="0.9" sprite="curtains" name="curtains"/>
+	<sprite type="none" scroll="0.9" sprite="rope" name="rope"/>
+	<sprite type="none" sprite="equipment" name="equipment"/>
+	<girlfriend x="960" y="640"/>
+	<dad x="690" y="500"/>
+	<boyfriend x="1350" y="400"/>
+	<sprite x="914" sprite="nateAndPixieTemp/nateAndPixie" y="404" name="tempCharacters">
+      <anim name="idle" anim="idle" loop="true" fps="12"/>
+   </sprite>
+	<sprite x="-839" scroll="0" sprite="overlay" y="-300" type="none" name="overlay"/>
+</stage>

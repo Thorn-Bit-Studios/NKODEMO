@@ -1,0 +1,19 @@
+{
+	"customValues": {
+		"composer": "DoubleM",
+		"charter": "DoubleM"
+	},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"icon": "mom",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "High (Nate Mix)",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 125
+}

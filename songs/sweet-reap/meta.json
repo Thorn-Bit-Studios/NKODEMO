@@ -1,0 +1,20 @@
+{
+	"customValues": {
+		"playerCharacter": "nate",
+		"composer": "n4k2guy!",
+		"charter": "Skypex VGA & DoubleM"
+	},
+	"color": "#ba3560",
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"icon": "mad",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Sweet Reap",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 145
+}

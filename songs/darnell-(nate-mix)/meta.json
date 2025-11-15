@@ -1,0 +1,20 @@
+{
+	"customValues": {
+		"playerCharacter": "nate",
+		"composer": "DoubleM",
+		"charter": "DoubleM"
+	},
+	"color": "#B88A7C",
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"icon": "darnell",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Darnell (Nate Mix)",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 155
+}

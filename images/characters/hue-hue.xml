@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hue-hue.png" width="1132" height="925" spritePadding="3" borderPadding="1">
+	<SubTexture name="idle0000" x="374" y="1" width="402" height="508" frameX="0" frameY="0" frameWidth="406" frameHeight="512"/>
+	<SubTexture name="up0000" x="1" y="1" width="370" height="518" frameX="0" frameY="0" frameWidth="374" frameHeight="522"/>
+	<SubTexture name="down0000" x="567" y="522" width="402" height="309" frameX="0" frameY="0" frameWidth="406" frameHeight="313"/>
+	<SubTexture name="left0000" x="779" y="1" width="352" height="508" frameX="0" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="right0000" x="1" y="522" width="563" height="402" frameX="0" frameY="0" frameWidth="567" frameHeight="406"/>
+</TextureAtlas>

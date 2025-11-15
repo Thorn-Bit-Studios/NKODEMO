@@ -1,0 +1,21 @@
+{
+	"customValues": {
+		"charterHard": "Ezzy's_Curse",
+		"composer": "n4k2guy!",
+		"playerCharacter": "nate",
+		"charter": "Ezzy's_Curse & SA64ds"
+	},
+	"color": "#73BCE8",
+	"opponentModeAllowed": false,
+	"icon": "bf",
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Accolades",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 170
+}

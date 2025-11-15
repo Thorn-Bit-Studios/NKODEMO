@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Enabled",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Grayness",
+            "type": "Int(0, 100, 1)",
+            "defaultValue": 0
+        }
+    ]
+}

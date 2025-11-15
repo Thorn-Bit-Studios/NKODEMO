@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="-200" sprite="MadDragon" scale="0.6" camx="-125" camy="50" color="#6F3954" holdTime="6" naughtyLines="0" maxLines="4">
+	<anim name="idle" anim="Idle" x="2" y="4"/>
+	<anim name="singUP" anim="Up" x="87" y="54"/>
+	<anim name="singLEFT" anim="Left" x="94" y="-2"/>
+	<anim name="singRIGHT" anim="Right" x="-34" y="6"/>
+	<anim name="singDOWN" anim="Down" x="56" y="-122"/>
+</character>

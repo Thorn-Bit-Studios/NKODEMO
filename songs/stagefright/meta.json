@@ -1,0 +1,21 @@
+{
+	"customValues": {
+		"charterHard": "SA64ds, ShultzNG, & DoubleM",
+		"stickerPack": "stagefright",
+		"composer": "DoubleM",
+		"charter": "SA64ds & ShultzNG"
+	},
+	"color": "#12837A",
+	"opponentModeAllowed": false,
+	"icon": "pixie",
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Stagefright",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

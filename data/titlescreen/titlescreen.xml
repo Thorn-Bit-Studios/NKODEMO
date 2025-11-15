@@ -1,0 +1,57 @@
+<!DOCTYPE codename-titlestate >
+<titlestate>
+	<sprites folder="menus/titlescreen">
+		<sprite name="bg" sprite="bg" scale="0.5" x="-640" y="-360" beatInterval="1"/>
+		<sprite name="logo" sprite="logo" scale="0.6" x="-50" y="-100" beatInterval="1"/>
+
+		<titleEnter sprite="titleEnter" x="-150" y="-100" />
+	</sprites>
+
+	<intro length="16">
+		<text beat="1">
+			<line text="presented by"/>
+		</text>
+
+		<text beat="2">
+			<line text="presented by"/>
+			<sprite path="menus/titlescreen/thornbit_logo" scale="0.6"/>
+		</text>
+
+		<text beat="5" /> <!-- clears the screen !-->
+
+		<text beat="6">
+			<line text="directed by"/>
+		</text>
+
+		<text beat="7">
+			<line text="directed by"/>
+			<line text="shultzng & sa64ds"/>
+		</text>
+
+		<text beat="8" /> <!-- clears the screen !-->
+
+		<text beat="9">
+			<introtext line="1" />
+			<introtext line="2" />
+		</text>
+		<text beat="11">
+			<introtext line="1" />
+			<introtext line="2" />
+			<introtext line="3" />
+		</text>
+
+		<text beat="12"/>
+
+		<text beat="13">
+			<line text="N" />
+		</text>
+
+		<text beat="14">
+			<line text="NK" />
+		</text>
+
+		<text beat="15">
+			<line text="NKO" />
+		</text>
+	</intro>
+</titlestate>

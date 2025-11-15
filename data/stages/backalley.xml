@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/backalley/" zoom="0.8">
+	<use-extension script="dropshadow-effect"/>
+
+	<sprite antialiasing="false" x="-753" updateHitbox="true" y="-571" sprite="sky" scale="0.6" name="sky" scroll="0.3"/>
+	<sprite x="-753" updateHitbox="true" y="-569" sprite="citybg" scale="0.6" name="citybg" scroll="0.5"/>
+	<sprite x="-753" y="-573" updateHitbox="true" sprite="buildings" scale="0.6" name="buildings" scroll="0.7"/>
+	<sprite x="-753" y="-516" updateHitbox="true" sprite="billboard" scale="0.6" name="billboard" scroll="0.9"/>
+	<sprite x="-753" y="-572" updateHitbox="true" sprite="wires" scale="0.6" name="wires" scroll="0.9"/>
+	<sprite x="-753" y="-565" updateHitbox="true" sprite="ground" scale="0.6" name="ground"/>
+	<girlfriend ds_applyShader="true" ds_brightness="-25" ds_contrast="-10" ds_hue="-20" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<dad ds_applyShader="true" ds_brightness="-25" ds_contrast="-10" ds_hue="-20" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<boyfriend ds_applyShader="true" ds_brightness="-25" ds_contrast="-10" ds_hue="-20" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<combo/>
+</stage>

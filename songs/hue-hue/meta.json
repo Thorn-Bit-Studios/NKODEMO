@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "metal",
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"customValues": {
+		"charterHard": "SA64ds & ShultzyNG",
+		"composer": "DoubleM",
+		"charter": "SA64ds"
+	},
+	"color": -16764161,
+	"name": "hue-hue",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Hue Hue",
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}

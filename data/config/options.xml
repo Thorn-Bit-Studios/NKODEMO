@@ -1,0 +1,26 @@
+<!DOCTYPE codename-mod-options>
+<menu name="NKO Options" desc="Options for the NKO mod.">
+	<menu name="Visuals" desc="Options for visual effects in the mod.">
+		<checkbox id="flashingLights" name="Flashing Lights" desc="If disabled, stuff like screen flashes will not happen."/>
+
+		<choice id="stickerOption" name="Stickers" desc="Change how stickers on the loading screen are picked.">
+			<value name="Song" value="perSong"/>
+
+			<value name="Character" value="perChara"/>
+
+			<value name="Use All" value="all"/>
+		</choice>
+	</menu>
+
+	<menu name="Gameplay" desc="Options that affect gameplay in the mod.">
+   		<checkbox id="deathLinesEnabled" name="Death Lines" desc="If the death lines are annoying to you, you can disable them here."/>
+   	</menu>
+
+   <menu name="Debug" desc="Options for debugging NKO.">
+		<menu name="Logging" desc="Options for logging information in the console. Useful for debugging.">
+			<checkbox id="spriteLog" name="Sprite Logging" desc="Logs information about sprites added via code."/>
+			<checkbox id="consoleLog" name="Code Logging" desc="Logs information about code-related stuff."/>
+			<checkbox id="miscLog" name="Misc. Logging" desc="Logs some miscellaneous information about the mod. WARNING: These will likely spam your console! Use at your own risk!"/>
+		</menu>
+   </menu>
+</menu>

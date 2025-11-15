@@ -1,0 +1,4 @@
+Start Demo
+Options
+Credits
+Exit

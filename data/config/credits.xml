@@ -1,0 +1,78 @@
+<menu name="Thorn-Bit Studios" desc="The people behind this demo of NKO">
+    <github user="ShultzNG" customName="ShultzNG" desc="Creator and Lead Director" size="100"/>
+    <github user="SA64ds" desc="Director" size="100"/>
+    <github user="HeroEyad" desc="Co-Director" size="100"/>
+    <github user="LZDigiArts" desc="Co-Director" size="100"/>
+    <github user="DoubleM-official" customName="DoubleM" desc="Co-Director" size="100"/>
+    <menu name="Composers" desc="The people who composed all the music for the mod">
+        <github user="DoubleM-official" customName="DoubleM" desc="Composed every song except for Accolades and Sweet Reap" size="100"/>
+        <github user="n4k2guy" customName="n4k2guy!" desc="Composed Accolades and Sweet Reap" size="100"/>
+    </menu>
+    <menu name="Artists" desc="The people who make the mod look how it looks">
+        <github user="ShultzNG" customName="ShultzNG" desc="Lead Artist" size="100"/>
+        <github user="AshManY2K" desc="Artist" size="100"/>
+        <github user="LZDigiArts" desc="Cover Art Artist" size="100"/>
+        <github user="SA64ds" desc="Cover Art Pixel Artist" size="100"/>
+    </menu>
+    <menu name="Animators" desc="The people who make the art move">
+        <github user="Cryoptera" desc="Nate, Pixie, BF, and Mad Animations" size="100"/>
+    </menu>
+    <menu name="Charters" desc="The people that make the songs playable">
+        <github user="ShultzNG" customName="ShultzNG" desc="Charted Stagefright & Hue-Hue (Hard)" size="100"/>
+        <github user="SA64ds" desc="Charted Stagefright, Accolades (Normal), & Hue-Hue" size="100"/>
+        <github user="dumbbbbbbb" customName="Ezzy's_Curse" desc="Charted Accolades" icon="credit icon example" size="100" url=""/>
+        <credit name="Skypex VGA" desc="Charted Sweet Reap" size="100" url="https://www.youtube.com/channel/UCjx48vyfAiFvXg5ZKH2eqxQ"/>
+        <github user="DoubleM-official" customName="DoubleM" desc="Charted Stagefright (Hard), High (Nate Mix), & Darnell (Nate Mix)" size="100"/>
+        <menu name="Extra Events" desc="The people that added the events that aren't the charters for that song">
+            <github user="SA64ds" desc="Added events to Sweet Reap, High (Nate Mix), & Darnell (Nate Mix)" size="100"/>
+        </menu>
+    </menu>
+    <menu name="Coders" desc="The people who make the mod function the way it does">
+        <github user="HeroEyad" desc="Lead Coder" size="100"/>
+        <github user="SA64ds" desc="Coder" size="100"/>
+    </menu>
+    <menu name="Voice Actors" desc="The people that give life to the characters">
+        <github user="SpringXy" desc="Voiced Pixie" size="100"/>
+        <github user="ContentLeaf" desc="Voiced Boyfriend" size="100"/>
+        <github user="TheMadDragon911" customName="TheMadDragon" desc="Voiced Mad" size="100"/>
+    </menu>
+    <menu name="Non-Demo Team" desc="The people in the dev team whose work didn't make it into this demo, but will be in v1">
+        <menu name="Composers" desc="The people who composed all the music for the mod">
+            <github user="Blu3Caty" customName="TheUnrealBlu3Cat" desc="Composer" size="100"/>
+            <github user="Magbros" customName="mag" desc="Composer" size="100"/>
+        </menu>
+        <menu name="Artists" desc="The people who make the mod look how it looks">
+            <credit name="kelp" desc="Pixel Artist" icon="" size="100" url="https://twitter.com/driedout_kelp"/>
+        </menu>
+        <menu name="Charters" desc="The people that make the songs playable">
+            <credit name="IceboundCat6" desc="Charter" icon="icebound" size="100" url="https://www.youtube.com/@IceboundCat6"/>
+            <credit name="vizii" desc="Charter" icon="" size="100" url="https://solo.to/vizii"/>
+        </menu>
+        <menu name="Coders" desc="The people who make the mod function the way it does">
+            <github user="GamerPablito" desc="Coder" size="100"/>
+        </menu>
+    </menu>
+    <menu name="Extra NKO Credits" desc="People outside of Thorn-Bit Studios who helped make NKO possible">
+        <credit name="OfficialUumga" desc="Designer for TheMadDragon's OC" icon="" size="100"/>
+        <menu name="Testers" desc="The people who tested the mod to make sure it works properly">
+            <credit name="Tech0" desc="Tester" size="100" url="https://twitter.com/Just_Tech0"/>
+            <credit name="Hunterman9924YT" desc="Tester" icon="" size="100" url="https://www.youtube.com/hunterman9924"/>
+        </menu>
+        <menu name="Special Thanks" desc="Anyone who contributed to the mod in any way">
+            <credit name="[Yume]" desc="Thanks you for being such a supportive partner and amazing person all the time and supporting me in all of my projects, I love you hun -Shultz" size="100"/>
+            <credit name="Tech0" desc="Being a great friend to the team" icon="" size="100"/>
+            <credit name="Keni" desc="Being a great friend to the team" icon="" size="100"/>
+            <credit name="SugarSweetPop" desc="Being a great friend to the team" icon="" size="100"/>
+            <credit name="g7neric" desc="Being a great friend to the team" icon="" size="100"/>
+            <credit name="woodflp" desc="Being a great friend to the team" icon="" size="100"/>
+            <credit name="RubyyyButCool" desc="Being a great friend to the team" icon="" size="100" link="https://twitter.com/Rubyyy_but_cool"/>
+            <credit name="SugarSweetPop" desc="Being a great friend to the team" icon="" size="100"/>
+            <github user="SPG64" desc="Being a good influence to the team" size="100"/>
+        </menu>
+        <menu name="Extra Scripts" desc="People who created the exta scripts and events used in the mod">
+            <github user="Bitto1070" customName="Bitto" desc="Bitto's Codename Collection" size="100"/>
+            <github user="TechnikTil" customName="Til" desc="Sticker Transition" size="100"/>
+            <github user="maplesyruppppppp" customName="syrup" desc="Drop Shadow Shader" size="100"/>
+        </menu>
+    </menu>
+</menu>

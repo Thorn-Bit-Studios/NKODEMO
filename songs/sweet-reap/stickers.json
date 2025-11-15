@@ -1,0 +1,19 @@
+{
+    // Replace "opp" with the name of the opponent
+
+    // Song Select
+    "opponentStickers": [
+        "transitionSwag/stickers-set-1/madSticker1",
+        "transitionSwag/stickers-set-1/madSticker2",
+        "transitionSwag/stickers-set-1/madSticker3"
+    ],
+    // Sticker Transition
+    "transitionStickers": [
+        "transitionSwag/stickers-set-1/nateSticker1",
+        "transitionSwag/stickers-set-1/nateSticker2",
+        "transitionSwag/stickers-set-1/nateSticker3",
+        "transitionSwag/stickers-set-1/madSticker1",
+        "transitionSwag/stickers-set-1/madSticker2",
+        "transitionSwag/stickers-set-1/madSticker3"
+    ]
+}

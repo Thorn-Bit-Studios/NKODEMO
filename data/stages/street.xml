@@ -1,0 +1,55 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="600" startCamPosY="0" folder="stages/street/" name="street" zoom="0.7">
+	<use-extension script="dropshadow-effect"/>
+
+	<sprite x="-1700" sprite="sky" y="-1000" scale="0.6" scroll="0.5" name="sky"/>
+
+	<sprite x="-1700" sprite="back-city" y="-1000" scale="0.6" scroll="0.6" name="bcity"/>
+
+	<high-memory>
+		<sprite x="-1700" sprite="city" y="-1000" scale="0.6" scroll="0.7" name="fcity"/>	
+	</high-memory>
+
+	<sprite x="-6000" sprite="car" y="-1000" scale="0.6" name="car">
+		<property name="moves" type="bool" value="true"/>
+	  	<property name="velocity.x" type="float" value="5000.0"/>
+	</sprite>
+
+	<sprite x="-1700" sprite="street" y="-1000" scale="0.6" name="street"/>
+
+	<high-memory>
+		<sprite x="350" sprite="crowd/lyra" y="-60" scale="0.6" scroll="1" name="lyra" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="250" sprite="crowd/callie" y="-40" scale="0.6" scroll="1" name="callie" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="750" sprite="crowd/mello" y="-60" scale="0.6" scroll="1" name="mello" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="-50" sprite="crowd/tyler" y="190" scale="0.6" scroll="1" name="tyler" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="950" sprite="crowd/caio" y="-20" scale="0.6" scroll="1" name="caio" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="0" sprite="crowd/nicole" y="-40" scale="0.6" scroll="1" name="nicole" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="1190" sprite="crowd/tech0" y="130" scale="0.6" scroll="1" name="tech0" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+		<sprite x="-200" sprite="crowd/doubleM" y="-60" scale="0.6" scroll="1" name="doublem" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90">
+			<anim sprite="idle" name="idle" fps="24" loop="true" type="beat"/>
+		</sprite>
+	</high-memory>
+
+	<girlfriend x="390" y="130" scrolly="1" scrollx="1" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<dad x="100" y="100" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<boyfriend x="770" y="100" camxoffset="0" camyoffset="0" ds_applyShader="true" ds_brightness="-50" ds_contrast="-25" ds_color="white" ds_antialiasAmt="2" ds_angle="90"/>
+	<combo x="700" y="200"/>
+
+	<high-memory>
+		<sprite x="-1700" sprite="light" y="-1000" scale="0.6" name="light"/>	
+	</high-memory>
+</stage>

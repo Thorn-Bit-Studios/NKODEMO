@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="175" sprite="NKO_BF" scale="0.6" color="#30B0D1" naughtyLines="6" maxLines="6">
+	<anim name="idle" anim="Idle" x="-5"/>
+	<anim name="singUP" anim="Up" x="14" y="39"/>
+	<anim name="singLEFT" anim="Left" x="104" y="-1"/>
+	<anim name="singRIGHT" anim="Right" x="-45" y="2"/>
+	<anim name="singDOWN" anim="Down" x="-46" y="-105"/>
+	<anim name="hey" anim="Hey" x="-4" y="2"/>
+</character>
