@@ -7,7 +7,7 @@ If a Codename update does breaks the mod, let us know and we'll try to release a
 
 However, if you want to port this mod to other engines for us, please ask us first!
 # License
-You can make videos and streams on the mod, just at least link to the mod page please and thank you. Using the content of this mod outside of NKO is up to the disgression of the composer/artist/whatever.
+You can make videos and streams on the mod, just at least link to the mod page please and thank you. Using the content of this mod outside of NKO is up to the discretion of the composer/artist/whatever.
 
 All the credits for the people who worked on the demo are in the Credits menu under "Thorn-Bit Studios"!
 
