@@ -30,6 +30,7 @@
     <menu name="Coders" desc="The people who make the mod function the way it does">
         <github user="HeroEyad" desc="Lead Coder" size="100"/>
         <github user="SA64ds" desc="Coder" size="100"/>
+        <github user="SMB-5" desc="Coded in the stages for Accolades & Sweet Reap" size="100"/>
     </menu>
     <menu name="Voice Actors" desc="The people that give life to the characters">
         <github user="SpringXy" desc="Voiced Pixie" size="100"/>
